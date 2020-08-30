@@ -9,7 +9,7 @@ Website: https://www.harshiljain.in
  </p>
 <p align="center">
 
- <a href="https://harshiljain.in" target="blank"><img align="center" src=" https://image.flaticon.com/icons/svg/2301/2301129.svg" alt="jain-harshil" height="20" width="20" /></a>
+ <a href="https://harshiljain.in" target="blank"><img align="center" src="https://image.flaticon.com/icons/svg/2301/2301129.svg" alt="jain-harshil" height="20" width="20" /></a>
 <a href="https://github.com/jain-harshil" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="jain-harshil" height="20" width="20" /></a>
 <a href="https://linkedin.com/in/jainharshil" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="jainharshil" height="20" width="20" /></a>
 <a href="https://twitter.com/jain__harshil" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="jain__harshil" height="20" width="20" /></a>
