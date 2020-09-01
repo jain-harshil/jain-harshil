@@ -1,4 +1,4 @@
-## Harshil Jain
+### Harshil Jain
  
 Harshil Jain is a Senior Undergraduate pursuing a Bachelor of Technology (BTech) with Honours in [Computer Science and Engineering](http://cs.iitgn.ac.in/) at the [Indian Institute of Technology Gandhinagar (IIT Gandhinagar), Gujarat, India](https://www.iitgn.ac.in/). He has been awarded the prestigious National Talent Search Examination (NTSE) Scholarship by the NCERT Delhi in 2015. He is also the recipient of the Kishore Vaigyanik Protsahan Yojana (KVPY) Fellowship by the Govt. of India in 2015. He has been awarded the most prestigious and coveted DAAD WISE Scholarship by Deutscher Akademischer Austauschdienst - DAAD (German Academic Exchange Service) among 130 students from all over India among 2000+ applications for pursuing research in Germany during Summer 2020. He pursued a research internship at [IISc Bangalore](http://iisc.ac.in/) during Summer 2019. He has also been a deep learning researcher at [NeuralSpace](http://neuralspace.ai/), London during Summer 2020. He is passionate about Deep Learning, Computer Vision and Natural Language Processing.
 
