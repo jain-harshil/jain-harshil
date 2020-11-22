@@ -13,4 +13,4 @@ Harshil Jain is a Senior Undergraduate pursuing a Bachelor of Technology (BTech)
 <a href="https://fb.com/harshil.jain.3382" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="harshil.jain.3382" height="20" width="20" /></a>
 </p>
 
-<a target="blank"><img src="https://abs-0.twimg.com/emoji/v2/svg/1f389.svg" height="20" width="20" /></a>
+<img src="https://abs-0.twimg.com/emoji/v2/svg/1f389.svg" height="20" width="20" />
